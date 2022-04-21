@@ -1,0 +1,77 @@
+/* Seksyen 1 */
+.seksyen1{
+    background: url(IMAGE/MECHANIC\ VECTOR.jpg);
+    background-size: cover;
+    padding: 7% 20% 7%;
+
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-perfume{
+    color: rgb(11, 12, 12);
+}
+
+.tulisanPutih{
+    color: rgb(15, 15, 14);
+}
+
+/* Seksyen 2 */
+
+.seksyen2{
+    background-color: rgb(88, 162, 197);
+    padding: 5% 15% 5%;
+    text-align: center;
+
+}
+
+.icon{
+    color: rgb(97, 98, 98);
+    margin-bottom: 1rem;
+
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+h2{
+    font-family: 'Secular One', sans-serif;
+}
+
+/* Seksyen 3 */
+.seksyen3{
+    background-color: rgb(70, 183, 196);
+    padding: 2%    
+}
+
+/* Seksyen 4 */
+.seksyen4{
+    background-color: rgb(14, 107, 110);
+    padding: 5%;
+    text-align: center;
+    color: rgb(193, 178, 178);
+}
+
+/* Seksyen 5 */
+.seksyen5{
+    background-image: url(IMAGE/anime-girl-racing-car-.jpg);
+    background-size: cover;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: #39373d;
+}
+
+/* footer*/
+.footer{
+    background-color: rgb(163, 162, 160);
+    padding: 2%;
+    text-align: center
+}
+
+.media{
+    color: rgb(11, 11, 11);
+}
+
